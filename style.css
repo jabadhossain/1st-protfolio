@@ -1,0 +1,26 @@
+
+.color{
+
+color: rgb(221, 70, 32);
+font-size: 50px;
+}
+h1{
+
+    font-family: 'Pushster', cursive;
+}
+section{
+display: flex;
+
+}
+div{
+    width: 50%;
+}
+a{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+}
